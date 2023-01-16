@@ -1,1 +1,1 @@
-echo "Ejecución de prueba.sh de forma remota"
+echo "Ejecución de prueba.sh de forma remota por jenkins"
