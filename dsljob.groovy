@@ -1,5 +1,5 @@
 job('groovy-Job-DSL') {
-    description('Job DSL YYY por Groovy desde GitHub')
+    description('Job DSL LOCAL por Groovy desde GitHub')
 }
 
 
