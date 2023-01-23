@@ -1,5 +1,5 @@
 job('groovy-Job-DSL') {
-    description('Job DSL creado por Groovy desde GitHub')
+    description('Job DSL  por Groovy desde GitHub')
     scm {
         git('https://github.com/morgadodesarrollador/ShellScripts.git', 'master'){ 
             node -> 
