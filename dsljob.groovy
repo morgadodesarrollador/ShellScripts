@@ -1,5 +1,5 @@
 job('groovy-Job-DSL') {
-    description('Aplicación Node JS DSL para el curso de Jenkins')
+    description('Job DSL creado por Groovy desde GitHub')
     scm {
         git('https://github.com/morgadodesarrollador/ShellScripts.git', 'master'){ 
             node -> 
