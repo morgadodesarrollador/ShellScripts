@@ -1,5 +1,5 @@
 job('groovy-Job-DSL') {
-    description('Job DSL AAA por Groovy desde GitHub')
+    description('Job DSL SSS por Groovy desde GitHub')
 }
 
 
