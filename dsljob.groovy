@@ -8,8 +8,7 @@ job('groovy-Job-DSL') {
         }
     }
     triggers {
-        // scm('H/7 * * * *')
-        githubPush()
+        // githubPush()
     }
     
     steps {
