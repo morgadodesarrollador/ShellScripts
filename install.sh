@@ -1,0 +1,1 @@
+echo "ejecución de script mediante la creación de la tarea groovy-Job-DSL"
