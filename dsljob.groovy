@@ -1,5 +1,5 @@
 job('groovy-Job-DSL') {
-    description('Job DSL  por Groovy desde GitHub')
+    description('Job DSL ccc por Groovy desde GitHub')
     scm {
         git('https://github.com/morgadodesarrollador/ShellScripts.git', 'master'){ 
             node -> 
@@ -8,7 +8,7 @@ job('groovy-Job-DSL') {
         }
     }
     triggers {
-        // githubPush()
+        githubPush()
     }
     
     steps {
