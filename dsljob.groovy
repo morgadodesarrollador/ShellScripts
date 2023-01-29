@@ -1,7 +1,7 @@
 import jenkins-auto-approve-script.groovy
 
 job('groovy-Job-DSL') {
-    description('Job DSL zzz por Groovy desde GitHub')
+    description('Job DSL kkk por Groovy desde GitHub')
 }
 
 
