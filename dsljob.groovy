@@ -1,4 +1,4 @@
-import jenkins-auto-approve-script.groovy
+// import jenkins-auto-approve-script.groovy
 
 job('groovy-Job-DSL') {
     description('Job DSL kkk por Groovy desde GitHub')
